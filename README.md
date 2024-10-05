@@ -65,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![WhatsApp Image 2024-10-05 at 10 30 21 AM](https://github.com/user-attachments/assets/29865431-f6bc-4fd8-9d03-06487da114b9)
+ ![WhatsApp Image 2024-10-05 at 10 30 39 AM](https://github.com/user-attachments/assets/3450550c-6573-4845-b4c0-5d2da1546f21)
+
 
 
 iv)	Creating the new test cell view
@@ -77,7 +78,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![WhatsApp Image 2024-10-05 at 10 30 21 AM](https://github.com/user-attachments/assets/2be22a24-875a-479f-a584-6dadf9a4b284)
+![WhatsApp Image 2024-10-05 at 10 35 56 AM](https://github.com/user-attachments/assets/12ededc7-06ab-40ef-860b-11375cc7c651)
+
 
 
  
@@ -91,22 +93,25 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![WhatsApp Image 2024-10-05 at 10 30 21 AM](https://github.com/user-attachments/assets/6fce291d-7488-437f-975d-d1b71bceb3f3)
+![WhatsApp Image 2024-10-05 at 10 38 24 AM](https://github.com/user-attachments/assets/3031083d-6391-4c1e-9c09-0a617d2c145e)
 
 For Transient Analysis Settings and Output
  
  
- ![WhatsApp Image 2024-10-05 at 10 30 21 AM](https://github.com/user-attachments/assets/a8884f8d-404f-4828-b2cb-c9b30745bf42)
+ ![WhatsApp Image 2024-10-05 at 10 39 42 AM](https://github.com/user-attachments/assets/46a358e9-b14f-4077-9dfd-cd490b4637db)
+
 
 
  ![Screenshot 2024-09-28 115515](https://github.com/user-attachments/assets/e5616e4b-a4ad-4a24-a36f-acf5741e89b4)
 
 
  For DC Analysis Settings and Output
-![WhatsApp Image 2024-10-05 at 10 42 14 AM](https://github.com/user-attachments/assets/d6347e05-901a-4d23-bb85-3b244e553a91)
+![WhatsApp Image 2024-10-05 at 10 42 14 AM](https://github.com/user-attachments/assets/d387758d-8bcd-476b-8522-e2da1dd324ee)
 
 
-![WhatsApp Image 2024-10-05 at 10 42 14 AM](https://github.com/user-attachments/assets/22086364-3db4-4ed4-bfa9-193db459e0fb)
+
+![WhatsApp Image 2024-10-05 at 10 43 13 AM](https://github.com/user-attachments/assets/79fadf23-a2e2-4412-80fd-098ec5856558)
+
 
  
 
